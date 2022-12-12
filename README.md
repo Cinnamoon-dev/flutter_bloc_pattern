@@ -1,6 +1,6 @@
-# f_app_1
+# The BLoC App
 
-A new Flutter project.
+A simple project to learn BLoC Pattern and fetching data with REST API calls/requests. 
 
 ## Getting Started
 
